@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Wireless Bluetooth Headphones",
+      "image": "https://i.ibb.co.com/fr7dkvR/61-g7m-90e-L-AC-SL1500.jpg",
+      "description": "High-quality over-ear headphones with noise cancellation and 20-hour battery life.",
+      "price": 59.99
+    },
+    {
+      "id": 2,
+      "name": "Smart Fitness Watch",
+      "image": "https://i.ibb.co.com/QmzQ62F/Joyroom-JR-QP192-Portable-Powerbank-External-Battery-Charger-20000m-Ah-22-5-W-2-4819.jpg",
+      "description": "Waterproof smartwatch with heart rate monitor, step counter, and sleep tracking.",
+      "price": 89.99
+    },
+    {
+      "id": 3,
+      "name": "Stainless Steel Water Bottle",
+      "image": "https://i.ibb.co.com/K6XmHtV/ba8ef75f00ae636dd0b14234ad593197.jpg",
+      "description": "Insulated water bottle keeps drinks cold for 24 hours and hot for 12 hours.",
+      "price": 15.99
+    },
+    {
+      "id": 4,
+      "name": "Portable Charger 20000mAh",
+      "image": "https://i.ibb.co.com/QmzQ62F/Joyroom-JR-QP192-Portable-Powerbank-External-Battery-Charger-20000m-Ah-22-5-W-2-4819.jpg",
+      "description": "Fast-charging power bank with USB-C and USB-A ports, compatible with all devices.",
+      "price": 29.99
+    },
+    {
+      "id": 5,
+      "name": "Compact Travel Umbrella",
+      "image": "https://i.ibb.co.com/V3ZS28k/668b75226048df2dd1036574-repel-travel-umbrella-windproof-travel.jpg",
+      "description": "Lightweight and durable travel umbrella with wind-resistant design.",
+      "price": 14.99
+    },
+    {
+      "id": 6,
+      "name": "LED Desk Lamp with USB Port",
+      "image": "https://i.ibb.co.com/V3ZS28k/668b75226048df2dd1036574-repel-travel-umbrella-windproof-travel.jpg",
+      "description": "Dimmable LED desk lamp with touch control and built-in USB charging port.",
+      "price": 24.99
+    },
+    {
+      "id": 7,
+      "name": "Electric Milk Frother",
+      "image": "https://i.ibb.co.com/V3ZS28k/668b75226048df2dd1036574-repel-travel-umbrella-windproof-travel.jpg",
+      "description": "Handheld frother ideal for lattes, cappuccinos, and other coffee drinks.",
+      "price": 12.99
+    },
+    {
+      "id": 8,
+      "name": "Adjustable Laptop Stand",
+      "image": "https://i.ibb.co.com/V3ZS28k/668b75226048df2dd1036574-repel-travel-umbrella-windproof-travel.jpg",
+      "description": "Ergonomic laptop stand with adjustable height and angle settings.",
+      "price": 34.99
+    },
+    {
+      "id": 9,
+      "name": "Essential Oil Diffuser",
+      "image": "https://i.ibb.co.com/V3ZS28k/668b75226048df2dd1036574-repel-travel-umbrella-windproof-travel.jpg",
+      "description": "Ultrasonic essential oil diffuser with 7 LED color options and auto-shutoff.",
+      "price": 19.99
+    }
+  ]
+  
